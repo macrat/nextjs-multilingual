@@ -1,0 +1,33 @@
+{
+  "name": "nextjs-multilingual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macrat/nextjs-multilingual.git"
+  },
+  "author": "MacRat <m@crat.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macrat/nextjs-multilingual/issues"
+  },
+  "homepage": "https://github.com/macrat/nextjs-multilingual#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
